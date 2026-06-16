@@ -1,14 +1,14 @@
 # HR-Data-Analysis-Dashboard
 
-# 📊 HR Data Analytics & Employee Attrition Project
+# HR Data Analytics & Employee Attrition Project
 
-## 📝 Project Overview
+##Project Overview
 This repository showcases an end-to-end data analytics project focused on Human Resources (HR) and workforce dynamics. By evaluating a substantial dataset of **17,000 employee records**, this project aims to uncover critical factors driving employee attrition, assess overall job satisfaction, and provide data-backed insights to improve organizational retention strategies.
 
-## 📊 Dataset Used
+## Dataset Used
 - [hr_analysis.csv](https://github.com/Pritirane04/HR-Data-Analysis-Dashboard/blob/main/hr_analysis.csv)
 
-## 🖼️ Dashboard Preview
+## Dashboard Preview
 Here is a preview of the completed interactive Power BI dashboard:
 
 ![HR Dashboard Preview 1](Screenshots/Screenshot%202026-06-16%20145634.png)
@@ -16,7 +16,7 @@ Here is a preview of the completed interactive Power BI dashboard:
 ![HR Dashboard Preview 2](Screenshots/Screenshot%202026-06-16%20145850.png)
 
 
-## 🚀 Key Dashboard Metrics & Features
+##  Key Dashboard Metrics & Features
 The Power BI dashboard delivers precise, high-level business indicators at a single glance:
 
 * **Executive KPIs:** Monitors a massive workforce size of 17,000 total employees, an Average Salary baseline of 6,492.39, Average Age of 36.95 years, and an Average Job Satisfaction rating of 2.75/4.
@@ -37,7 +37,7 @@ This project integrates multiple data analytics tools to achieve its results:
 
 
 
-## 💡 Key Business Insights (From the Dashboard)
+## Key Business Insights (From the Dashboard)
 * **Overtime Impact:** Employees who consistently put in Overtime hours demonstrate a significantly higher propensity for attrition compared to non-overtime staff.
 * **Departmental Concentration:** The *Research & Development* and *Sales* business units require the closest retention monitoring as they represent the majority of the organizational headcount.
 * **Satisfaction Core:** Job satisfaction and work-life balance ratings directly influence the metric patterns, suggesting that soft-benefits are key to keeping retention stable.
